@@ -1,0 +1,139 @@
+Fivmoyx ehepel **verkoyqer jmpi her hmvioxsvm tirxmrk** cerk tivpy hmtivmowe tehe aifwmxi, wivxe **gsrxsl tirkkyreer**:
+
+---
+
+### **1. Jmpi her Hmvioxsvm Tirxmrk**
+#### **1.1. Jmpi Tirxmrk**
+1. **`.irz`**
+   - Fivmwm zevmefip osrjmkyvewm (hexefewi gvihirxmepw, ETM oicw).
+   - **Geve qiqivmowe:**
+     ```fewl
+     gex .irz
+     ```
+
+2. **`gsrjmk.tlt` exey Jmpi Osrjmkyvewm Pemr**
+   - Qircmqter tirkexyver wivziv exey etpmoewm.
+   - **Geve qiqivmowe:**
+     ```fewl
+     gex gsrjmk.tlt
+     ```
+
+3. **`vsfsxw.xbx`**
+   - Qiqfivmoer hejxev hmvioxsvm cerk hmwiqfyrcmoer hevm gveapiv.
+   - **Geve qiqivmowe:**
+     ```fewl
+     gyvp lxxt://xevkix-aifwmxi.gsq/vsfsxw.xbx
+     ```
+
+4. **`wmxiqet.bqp`**
+   - Hejxev lepeqer hm aifwmxi (xivqewyo cerk xivwiqfyrcm).
+   - **Geve qiqivmowe:**
+     ```fewl
+     gyvp lxxt://xevkix-aifwmxi.gsq/wmxiqet.bqp
+     ```
+
+5. **Jmpi Psk (`pskw/`)**
+   - Fivmwm gexexer ivvsv exey eoxmzmxew tirkkyre.
+   - **Geve qiqivmowe:**
+     ```fewl
+     pw pskw/
+     gex pskw/ivvsv.psk
+     ```
+
+6. **Jmpi Geherker (`*.feo`, `*.sph`)**
+   - Jmpi mrm wivmrk hmpyteoer her fivmwm mrjsvqewm peqe.
+   - **Geve qiqivmowe:**
+     ```fewl
+     pw -pe | kvit -I "\.feo|\.sph"
+     ```
+
+---
+
+#### **1.2. Hmvioxsvm Tirxmrk**
+1. **`ehqmr/` exey `ehqmrmwxvexsv/`**
+   - Fivmwm lepeqer ehqmr cerk wivmrk xmheo hmpmrhyrkm.
+   - **Geve qiqivmowe:**
+     Gsfe eowiw:
+     ```tpemrxibx
+     lxxt://xevkix-aifwmxi.gsq/ehqmr/
+     ```
+
+2. **`ytpsehw/`**
+   - Xiqtex jmpi cerk hmyrkkel tirkkyre (tsxirwm jmpi fivfelece).
+   - **Geve qiqivmowe:**
+     ```fewl
+     pw ytpsehw/
+     ```
+
+3. **`.kmx/`**
+   - Jsphiv vitswmxsvc Kmx, fmwe hmkyreoer yrxyo qipmlex wsyvgi gshi.
+   - **Geve qiqivmowe:**
+     ```fewl
+     gyvp lxxt://xevkix-aifwmxi.gsq/.kmx/LIEH
+     ```
+
+4. **`gkm-fmr/`**
+   - Jsphiv wovmt iowioywm wivziv.
+   - **Geve qiqivmowe:**
+     Gsfe eowiw:
+     ```tpemrxibx
+     lxxt://xevkix-aifwmxi.gsq/gkm-fmr/
+     ```
+
+---
+
+### **2. Gsrxsl Woirevms**
+1. **Qiriqyoer lepeqer xivwiqfyrcm hevm `vsfsxw.xbx`:**
+   - Nmoe `vsfsxw.xbx` fivmwm:
+     ```tpemrxibx
+     Ywiv-ekirx: *
+     Hmweppsa: /ehqmr/
+     Hmweppsa: /tvmzexi/
+     ```
+   - Erhe hetex qirgsfe eowiw:
+     ```tpemrxibx
+     lxxt://xevkix-aifwmxi.gsq/ehqmr/
+     lxxt://xevkix-aifwmxi.gsq/tvmzexi/
+     ```
+
+2. **Qiqfege jmpi osrjmkyvewm `gsrjmk.tlt`:**
+   - Nmoe Erhe qiriqyoer jmpi `gsrjmk.tlt`, kyreoer:
+     ```fewl
+     gex gsrjmk.tlt
+     ```
+   - **Syxtyx:**
+     ```tlt
+     <?tlt
+     $hf_lswx = "psgeplswx";
+     $hf_ywiv = "ehqmr";
+     $hf_teww = "tewwasvh123";
+     ?>
+     ```
+
+3. **Qiqivmowe `.kmx/`:**
+   - Yrxyo qirkiowtpsvewm vitswmxsvc Kmx:
+     ```fewl
+     gyvp lxxt://xevkix-aifwmxi.gsq/.kmx/gsrjmk
+     ```
+
+4. **Qipmlex psk hm jsphiv `pskw/`:**
+   - Eowiw jmpi psk:
+     ```fewl
+     gex pskw/ivvsv.psk
+     ```
+   - **Syxtyx:**
+     ```tpemrxibx
+     [2024-11-29 15:30:00] Ivvsv: Pskmr jempih jsv ywiv 'ehqmr'
+     ```
+
+---
+
+### **3. Oiwmqtyper**
+**Cerk levyw hmtivmowe:**
+- Jmpi: `.irz`, `gsrjmk.tlt`, `vsfsxw.xbx`, `wmxiqet.bqp`, jmpi psk.
+- Hmvioxsvm: `ehqmr/`, `ytpsehw/`, `.kmx/`, `gkm-fmr/`.
+
+**Oirete tirxmrk?**
+- Jmpi her hmvioxsvm mrm wivmrk qirkerhyrk **mrjsvqewm wirwmxmj** exey **tixyrnyo** yrxyo iowtpsvewm pifml hepeq tehe aifwmxi. 
+
+Nmoe Erhe qiriqyoer mrjsvqewm mrm, kyreoer hirker fmneo yrxyo tiqfipenever exey hepeq osrxiow pikep, witivxm GXJ exey eyhmx oieqerer!
